@@ -49,6 +49,8 @@ To install Python 3.6 (needed for fastai)
 sudo yum install -y python36u python36u-libs python36u-devel python36u-pipsudo pip install --upgrade pip
 ``` 
 
+## Requirements
+
 Typical installs (note to self -- make bash script)
 Also, re-check this works for fastai
 
